@@ -1,3 +1,10 @@
+---
+layout: post
+title: "📌 How Human Perceive Depth"
+date: 2025-04-19
+categories: [point-cloud, machine-learning, gmm]
+---
+
 # How Do We See the World?  
 ### A Journey Through Human Vision and Depth Perception
 
